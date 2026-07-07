@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/HarshitKumarModi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0047-permutations-ii) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/HarshitKumarModi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
 | ------- |
