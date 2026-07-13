@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0009-palindrome-number) |
+| [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/HarshitKumarModi/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/HarshitKumarModi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
