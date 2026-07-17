@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0189-rotate-array) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitKumarModi/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/HarshitKumarModi/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitKumarModi/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HarshitKumarModi/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitKumarModi/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
