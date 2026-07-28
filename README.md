@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitKumarModi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitKumarModi/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
