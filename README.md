@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HarshitKumarModi/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HarshitKumarModi/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
+| [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/HarshitKumarModi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitKumarModi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HarshitKumarModi/LeetCode/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HarshitKumarModi/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 ## Doubly-Linked List
 |  |
 | ------- |
