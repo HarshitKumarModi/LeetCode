@@ -1,6 +1,6 @@
 class MinStack {
     Stack<Integer> st = new Stack<>();
-    Stack<Integer> min = new Stack<>();
+    Stack<Integer> min = new Stack<>(); // extra stack s.c= O(n)
     public MinStack() {
         // constructor
     }
