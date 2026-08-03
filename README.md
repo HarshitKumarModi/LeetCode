@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/HarshitKumarModi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/HarshitKumarModi/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshitKumarModi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
