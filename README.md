@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/HarshitKumarModi/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
