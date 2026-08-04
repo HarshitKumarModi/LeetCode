@@ -1,33 +1,32 @@
 import java.util.*;
-
 class Solution {
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()) return false;
-        HashMap<Character, Integer> mp = new HashMap<>();
+
+        HashMap<Character, Integer> map = new HashMap<>();
 
         for(int i = 0; i<s.length(); i++){
             char ch = s.charAt(i);
 
-            if(mp.containsKey(ch)){
-                mp.put(ch, mp.get(ch) + 1);
+            if(map.containsKey(ch)){
+                map.put(ch, map.get(ch) + 1);
             } else {
-                mp.put(ch, 1);
+                map.put(ch, 1);
             }
         }
         for(int i = 0; i<t.length(); i++){
             char ch = t.charAt(i);
 
-            if(!mp.containsKey(ch)){
+            if(!map.containsKey(ch)){
                 return false;
             }
-            mp.put(ch, mp.get(ch) - 1);
 
-            if(mp.get(ch) == 0){
-                mp.remove(ch);
+            map.put(ch, map.get(ch) - 1);
+
+            if(map.get(ch) == 0){
+                map.remove(ch);
             }
-
-            
         }
-        return mp.isEmpty();
+        return map.isEmpty();
     }
 }
