@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HarshitKumarModi/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/HarshitKumarModi/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/HarshitKumarModi/LeetCode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/HarshitKumarModi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HarshitKumarModi/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/HarshitKumarModi/LeetCode/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/HarshitKumarModi/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
