@@ -1,29 +1,31 @@
 import java.util.*;
 
 public class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        backtrack(result, new ArrayList<>(), nums, new boolean[nums.length]);
-        return result;
-    }
+    public void helper(int[] nums, int idx, List<List<Integer>> ans){
+        int n = nums.length;
+        if(idx == n-1){
+            List<Integer> l = new ArrayList<>();
+            for(int i = 0;i<n; i++){
+                l.add(nums[i]);
 
-    private void backtrack(List<List<Integer>> result, List<Integer> tempList, int[] nums, boolean[] used) {
-        if (tempList.size() == nums.length) {
-            result.add(new ArrayList<>(tempList));
+            }
+            ans.add(l);
             return;
         }
-        
-        for (int i = 0; i < nums.length; i++) {
-            if (used[i]) continue;
-
-            used[i] = true;
-            tempList.add(nums[i]);
-
-            backtrack(result, tempList, nums, used);
-
-            // Backtrack
-            used[i] = false;
-            tempList.remove(tempList.size() - 1);
+        for(int i = idx; i<n; i++){
+            swap(i, idx, nums);
+            helper(nums, idx+1, ans);
+            swap(i, idx, nums);
         }
+    }
+    public void swap(int i, int j, int[] nums){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        helper(nums, 0, ans);
+        return ans;
     }
 }
