@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HarshitKumarModi/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/HarshitKumarModi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/HarshitKumarModi/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0052-n-queens-ii) |
+| [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/HarshitKumarModi/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshitKumarModi/LeetCode/tree/master/0207-course-schedule) |
+| [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/HarshitKumarModi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Union-Find
 |  |
