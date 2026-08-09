@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/HarshitKumarModi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
@@ -444,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
