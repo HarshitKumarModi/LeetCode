@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/HarshitKumarModi/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/HarshitKumarModi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/HarshitKumarModi/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarshitKumarModi/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshitKumarModi/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/HarshitKumarModi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/HarshitKumarModi/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union-Find
 |  |
 | ------- |
