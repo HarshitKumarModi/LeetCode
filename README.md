@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/HarshitKumarModi/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/HarshitKumarModi/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Graph Theory
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/HarshitKumarModi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
