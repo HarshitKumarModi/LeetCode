@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HarshitKumarModi/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarshitKumarModi/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitKumarModi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HarshitKumarModi/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/HarshitKumarModi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshitKumarModi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/HarshitKumarModi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/HarshitKumarModi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HarshitKumarModi/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/HarshitKumarModi/LeetCode/tree/master/0461-hamming-distance) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
