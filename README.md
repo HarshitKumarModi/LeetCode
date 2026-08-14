@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/HarshitKumarModi/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/HarshitKumarModi/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshitKumarModi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/HarshitKumarModi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HarshitKumarModi/LeetCode/tree/master/0075-sort-colors) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitKumarModi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HarshitKumarModi/LeetCode/tree/master/0198-house-robber) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshitKumarModi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
