@@ -5,10 +5,11 @@ class Solution {
         int maxSum = Integer.MIN_VALUE;
         for(int i = 0; i<n; i++){
             sum = sum + nums[i];
-            if(sum>maxSum){
+
+            if(sum > maxSum){
                 maxSum = sum;
             }
-            if(sum<0){
+            if(sum < 0){
                 sum = 0;
             }
         }
