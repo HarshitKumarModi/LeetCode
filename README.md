@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HarshitKumarModi/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshitKumarModi/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HarshitKumarModi/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HarshitKumarModi/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HarshitKumarModi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
@@ -605,12 +610,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HarshitKumarModi/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HarshitKumarModi/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
 ## Binary Search Tree
 |  |
