@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HarshitKumarModi/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HarshitKumarModi/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/HarshitKumarModi/LeetCode/tree/master/0231-power-of-two) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitKumarModi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HarshitKumarModi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HarshitKumarModi/LeetCode/tree/master/0198-house-robber) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HarshitKumarModi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
