@@ -1,9 +1,9 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
         int left = 0;
-        int zeroCount = 0;
         int maxLength = 0;
-        for(int right = 0; right < nums.length; right++){
+        int zeroCount = 0;
+        for(int right = 0; right<nums.length; right++){
             if(nums[right] == 0){
                 zeroCount++;
             }
