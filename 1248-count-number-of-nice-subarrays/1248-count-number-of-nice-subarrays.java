@@ -3,8 +3,12 @@ class Solution {
         return atmost(nums,k) - atmost(nums,k-1);
     }
     public int atmost(int[] nums, int k) {
+
+        if(k<0){
+            return 0;
+        }
         int left = 0;
-        int maxNice = 0;
+        int count = 0;
         int oddCount = 0;
 
         for(int right = 0; right<nums.length; right++){
@@ -18,8 +22,8 @@ class Solution {
                 left++;
             }
 
-            maxNice = (maxNice + (right-left+1));
+            count = (count + (right-left+1));
         }
-        return maxNice;
+        return count;
     }
 }
