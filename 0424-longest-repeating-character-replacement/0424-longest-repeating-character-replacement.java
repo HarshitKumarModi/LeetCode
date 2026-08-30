@@ -13,8 +13,8 @@ public class Solution {
             maxFrequency = Math.max(maxFrequency, freq[index]);
 
             while(((right-left+1) - maxFrequency) > k){
-            freq[s.charAt(left)-'A']--;
-            left++;
+                freq[s.charAt(left)-'A']--;
+                left++;
             }
             maxLength = Math.max(maxLength, right-left+1);
         }
