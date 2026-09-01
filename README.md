@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/HarshitKumarModi/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
