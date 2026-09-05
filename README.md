@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitKumarModi/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HarshitKumarModi/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitKumarModi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/HarshitKumarModi/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitKumarModi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HarshitKumarModi/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HarshitKumarModi/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
