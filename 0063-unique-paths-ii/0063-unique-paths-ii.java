@@ -3,12 +3,10 @@ class Solution {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
         int[][] dp = new int[m][n];
-        // 0->free cell  1->obstacle
         if(obstacleGrid[0][0] == 1){
             return 0;
         }
         dp[0][0] = 1;
-
         for(int i = 1; i<m; i++){
             if(obstacleGrid[i][0] == 1){
                 dp[i][0] = 0;
@@ -34,7 +32,7 @@ class Solution {
                 }
             }
         }
+
         return dp[m-1][n-1];
-        
     }
 }
