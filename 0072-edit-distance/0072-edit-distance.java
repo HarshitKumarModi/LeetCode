@@ -5,7 +5,6 @@ class Solution {
 
         int[][] dp = new int[m+1][n+1];
 
-        // Base case
         for(int i = 0; i<=m; i++){
             dp[i][n] = m-i;
         }
@@ -23,10 +22,11 @@ class Solution {
                     int delete = dp[i+1][j];
                     int replace = dp[i+1][j+1];
 
-                    dp[i][j] = 1 + Math.min(insert, Math.min(delete,replace));
+                    dp[i][j] = 1 + Math.min(insert, Math.min(delete, replace));
                 }
             }
         }
+
         return dp[0][0];
     }
 }
