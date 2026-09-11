@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/HarshitKumarModi/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/HarshitKumarModi/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HarshitKumarModi/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0494-target-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/HarshitKumarModi/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarshitKumarModi/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitKumarModi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/HarshitKumarModi/LeetCode/tree/master/0455-assign-cookies) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HarshitKumarModi/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshitKumarModi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/HarshitKumarModi/LeetCode/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HarshitKumarModi/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -790,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HarshitKumarModi/LeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/HarshitKumarModi/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
