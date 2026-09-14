@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshitKumarModi/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HarshitKumarModi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshitKumarModi/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HarshitKumarModi/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarshitKumarModi/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/HarshitKumarModi/LeetCode/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HarshitKumarModi/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
