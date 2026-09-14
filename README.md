@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HarshitKumarModi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/HarshitKumarModi/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/HarshitKumarModi/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshitKumarModi/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -881,4 +882,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/HarshitKumarModi/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
