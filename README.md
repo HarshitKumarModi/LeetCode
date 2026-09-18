@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitKumarModi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshitKumarModi/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitKumarModi/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/HarshitKumarModi/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshitKumarModi/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitKumarModi/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/HarshitKumarModi/LeetCode/tree/master/1025-divisor-game) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/HarshitKumarModi/LeetCode/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HarshitKumarModi/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitKumarModi/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HarshitKumarModi/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
