@@ -6,8 +6,7 @@ class Solution {
         int cash = 0;
 
         for(int i = 1; i<n; i++){
-            int oldHold = hold;
-            int oldCash = cash;
+            
 
             hold = Math.max(hold, cash-prices[i]);
 
