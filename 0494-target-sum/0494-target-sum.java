@@ -10,7 +10,8 @@ class Solution {
         if(Math.abs(target) > sum){
             return 0;
         }
-        if((target+sum) % 2 != 0){
+
+        if((sum+target) % 2 != 0){
             return 0;
         }
 
@@ -20,7 +21,7 @@ class Solution {
 
         for(int num : nums){
             for(int j = subsetTarget; j>=num; j--){
-                dp[j] = dp[j]+dp[j-num];
+                dp[j] = dp[j] + dp[j-num];
             }
         }
 
