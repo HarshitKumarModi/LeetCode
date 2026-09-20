@@ -1,9 +1,8 @@
 class Solution {
     public int minInsertions(String s) {
-        int m = s.length();
-
         String t = new StringBuilder(s).reverse().toString();
 
+        int m = s.length();
         int n = t.length();
 
         int[][] dp = new int[m+1][n+1];
@@ -17,6 +16,7 @@ class Solution {
                 }
             }
         }
+
         int lps = dp[0][0];
         return m - lps;
     }
