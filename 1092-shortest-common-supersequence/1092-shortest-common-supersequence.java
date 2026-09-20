@@ -16,16 +16,14 @@ class Solution {
         }
 
         StringBuilder ans = new StringBuilder();
-        
         int i = 0;
         int j = 0;
-        
-        while(i<m && j<n){
+        while(i<str1.length() && j<str2.length()){
             if(str1.charAt(i) == str2.charAt(j)){
                 ans.append(str1.charAt(i));
                 i++;
                 j++;
-            } else if(dp[i+1][j] >= dp[i][j+1]){
+            } else if(dp[i+1][j] > dp[i][j+1]){
                 ans.append(str1.charAt(i));
                 i++;
             } else {
@@ -33,11 +31,13 @@ class Solution {
                 j++;
             }
         }
-        while(i<m){
+
+        while(i<str1.length()){
             ans.append(str1.charAt(i));
             i++;
         }
-        while(j<n){
+
+        while(j<str2.length()){
             ans.append(str2.charAt(j));
             j++;
         }
