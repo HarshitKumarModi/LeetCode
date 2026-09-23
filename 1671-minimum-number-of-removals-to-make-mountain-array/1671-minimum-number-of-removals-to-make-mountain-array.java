@@ -9,7 +9,7 @@ class Solution {
             left[i] = 1;
             for(int j = 0; j<i; j++){
                 if(nums[j] < nums[i]){
-                    left[i] = Math.max(left[i], 1+left[j]);
+                    left[i] = Math.max(left[i], 1 + left[j]);
                 }
             }
         }
@@ -26,11 +26,12 @@ class Solution {
         int maxMountain = 0;
 
         for(int i = 0; i<n; i++){
-            if(left[i] > 1 && right[i] > 1){
-                int mountainLength = left[i] + right[i] - 1;
+            if(left[i] > 1  && right[i] > 1){
+                int mountainLength = left[i]+right[i]-1;
                 maxMountain = Math.max(maxMountain, mountainLength);
             }
         }
+
         return n-maxMountain;
     }
 }
