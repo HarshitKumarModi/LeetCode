@@ -5,11 +5,11 @@ class Solution {
 
         int[][] dp = new int[m+1][n+1];
 
-        for(int i = 0; i<=m; i++){
+        for(int i = 0; i<m; i++){
             dp[i][n] = m-i;
-        } 
+        }
 
-        for(int j = 0; j<=n; j++){
+        for(int j = 0; j<n; j++){
             dp[m][j] = n-j;
         }
 
@@ -21,10 +21,12 @@ class Solution {
                     int insert = dp[i][j+1];
                     int delete = dp[i+1][j];
                     int replace = dp[i+1][j+1];
-                    dp[i][j] = 1 + Math.min(insert, Math.min(delete, replace));
+
+                    dp[i][j] = 1 + Math.min(insert, Math.min(replace, delete));
                 }
             }
         }
+
         return dp[0][0];
     }
 }
