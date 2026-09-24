@@ -10,14 +10,15 @@ class Solution {
 
         int ans = 1;
 
-        for(int i = 1; i<n;i++){
+        for(int i = 1; i<n; i++){
             for(int j = 0; j<i; j++){
                 if(nums[j] < nums[i]){
-                    dp[i] = Math.max(dp[i], 1 + dp[j]);
+                    dp[i] = Math.max(dp[i], 1+dp[j]);
                 }
             }
-            ans  = Math.max(ans, dp[i]);
+            ans = Math.max(ans, dp[i]);
         }
+
         return ans;
     }
 }
