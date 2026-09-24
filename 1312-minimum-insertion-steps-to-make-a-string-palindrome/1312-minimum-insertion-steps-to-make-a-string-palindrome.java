@@ -11,13 +11,13 @@ class Solution {
             for(int j = n-1; j>=0; j--){
                 if(s.charAt(i) == t.charAt(j)){
                     dp[i][j] = 1 + dp[i+1][j+1];
-                } else {
+                } else  {
                     dp[i][j] = Math.max(dp[i+1][j], dp[i][j+1]);
                 }
             }
         }
 
         int lps = dp[0][0];
-        return m - lps;
+        return m-lps;
     }
 }
