@@ -22,11 +22,12 @@ class Solution {
                     int delete = dp[i+1][j];
                     int replace = dp[i+1][j+1];
 
-                    dp[i][j] = 1 + Math.min(insert, Math.min(replace, delete));
+                    dp[i][j] = 1 + Math.min(insert, Math.min(delete, replace));
                 }
             }
         }
 
         return dp[0][0];
+
     }
 }
