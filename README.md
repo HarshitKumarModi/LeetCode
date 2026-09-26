@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/HarshitKumarModi/LeetCode/tree/master/2029-stone-game-ix) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshitKumarModi/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitKumarModi/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
