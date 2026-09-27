@@ -962,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/HarshitKumarModi/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/HarshitKumarModi/LeetCode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/HarshitKumarModi/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/HarshitKumarModi/LeetCode/tree/master/0595-big-countries) |
 | [1661-average-time-of-process-per-machine](https://github.com/HarshitKumarModi/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/HarshitKumarModi/LeetCode/tree/master/1693-daily-leads-and-partners) |
