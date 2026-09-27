@@ -962,5 +962,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/HarshitKumarModi/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/HarshitKumarModi/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/HarshitKumarModi/LeetCode/tree/master/0595-big-countries) |
+| [1661-average-time-of-process-per-machine](https://github.com/HarshitKumarModi/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1873-calculate-special-bonus](https://github.com/HarshitKumarModi/LeetCode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
