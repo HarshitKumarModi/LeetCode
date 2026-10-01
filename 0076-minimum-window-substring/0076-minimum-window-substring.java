@@ -3,6 +3,7 @@ public class Solution {
         if(s.length() < t.length()){
             return "";
         }
+
         HashMap<Character, Integer> map = new HashMap<>();
 
         for(int i = 0; i<t.length(); i++){
@@ -19,7 +20,7 @@ public class Solution {
         int minLength = Integer.MAX_VALUE;
         int start = 0;
         int count = 0;
-
+        
         for(int right = 0; right<s.length(); right++){
             char ch = s.charAt(right);
 
@@ -36,19 +37,18 @@ public class Solution {
                     start = left;
                 }
 
-                char leftchar = s.charAt(left);
+                char leftChar = s.charAt(left);
 
-                if(map.containsKey(leftchar)){
-                    map.put(leftchar, map.get(leftchar) + 1);
+                if(map.containsKey(leftChar)){
+                    map.put(leftChar, map.get(leftChar) + 1);
 
-                    if(map.get(leftchar) > 0){
+                    if(map.get(leftChar) > 0){
                         count--;
                     }
                 }
-                left++;
+                left++;  
             }
         }
-
         if(minLength == Integer.MAX_VALUE){
             return "";
         }
