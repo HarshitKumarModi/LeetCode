@@ -11,7 +11,7 @@ class Solution {
         int left = 0;
         int right = m;
 
-        int half = (m + n + 1) / 2;
+        int half = (m+n+1) / 2;
 
         while(left <= right){
             int i = left + (right - left) / 2;
@@ -50,13 +50,15 @@ class Solution {
                 if((m+n) % 2 == 1){
                     return Math.max(nums1left, nums2left);
                 }
+
                 return (Math.max(nums1left, nums2left) + Math.min(nums1right, nums2right)) / 2.0;
-            } else if(nums1left > nums2right){
+            } else if (nums1left > nums2right){
                 right = i - 1;
-            } else{
+            } else {
                 left = i + 1;
             }
         }
+
         return 0.0;
     }
 }
