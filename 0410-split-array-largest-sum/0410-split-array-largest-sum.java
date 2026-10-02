@@ -1,14 +1,14 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        
         int left = 0;
         int right = 0;
 
         for(int num : nums){
-            left = Math.max(left, num);
+            left = Math.max(num, left);
         }
+
         for(int num : nums){
-            right = right + num;
+            right += num;
         }
 
         while(left <= right){
@@ -21,8 +21,8 @@ class Solution {
                 if(currentSum + num <= mid){
                     currentSum += num;
                 } else {
-                    subArrays++;
                     currentSum = num;
+                    subArrays++;
                 }
             }
 
