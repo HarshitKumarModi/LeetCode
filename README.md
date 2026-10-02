@@ -994,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/HarshitKumarModi/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/HarshitKumarModi/LeetCode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/HarshitKumarModi/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/HarshitKumarModi/LeetCode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/HarshitKumarModi/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/HarshitKumarModi/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/HarshitKumarModi/LeetCode/tree/master/0577-employee-bonus) |
