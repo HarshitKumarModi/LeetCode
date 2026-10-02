@@ -4,11 +4,11 @@ class Solution {
         int right = 0;
 
         for(int pile : piles){
-            right = Math.max(right, pile);
+            right = Math.max(pile, right);
         }
 
         while(left <= right){
-            int mid = left + (right -left) / 2;
+            int mid = left + (right - left) / 2;
 
             long hours = 0;
 
@@ -22,6 +22,7 @@ class Solution {
                 left = mid + 1;
             }
         }
+
         return left;
     }
 }
