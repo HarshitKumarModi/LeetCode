@@ -5,12 +5,12 @@ class Solution {
 
         int[][] dp = new int[m+1][n+1];
 
-        for(int i = 0; i<m; i++){
-            dp[i][n] = m-i;
+        for(int i = 0; i<=m; i++){
+            dp[i][n] = m - i;
         }
 
-        for(int j = 0; j<n; j++){
-            dp[m][j] = n-j;
+        for(int j = 0; j<=n; j++){
+            dp[m][j] = n - j;
         }
 
         for(int i = m-1; i>=0; i--){
@@ -28,6 +28,5 @@ class Solution {
         }
 
         return dp[0][0];
-
     }
 }
