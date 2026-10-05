@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HarshitKumarModi/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/HarshitKumarModi/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/HarshitKumarModi/LeetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HarshitKumarModi/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshitKumarModi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitKumarModi/LeetCode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/HarshitKumarModi/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
