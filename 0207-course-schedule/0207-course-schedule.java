@@ -2,41 +2,49 @@ import java.util.*;
 
 public class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        
-        List<List<Integer>> graph = new ArrayList<>();
-        for (int i = 0; i < numCourses; i++)
+        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
+
+        for(int i = 0; i<numCourses; i++){
             graph.add(new ArrayList<>());
-        
-        
-        for (int[] pre : prerequisites)
-            graph.get(pre[1]).add(pre[0]);
+        }
 
-        
-        int[] visited = new int[numCourses];
+        for(int[] prerequisite : prerequisites){
+            int course = prerequisite[0];
+            int pre = prerequisite[1];
 
-        
-        for (int i = 0; i < numCourses; i++) {
-            if (hasCycle(graph, visited, i))
-                return false;
+            graph.get(pre).add(course);
+        }
+
+        boolean[] visited = new boolean[numCourses];
+        boolean[] pathVisited = new boolean[numCourses];
+
+        for(int i = 0; i<numCourses; i++){
+            if(!visited[i]){
+                if(dfs(i, graph, visited, pathVisited)){
+                    return false;
+                }
+            }
         }
 
         return true;
     }
 
-    private boolean hasCycle(List<List<Integer>> graph, int[] visited, int course) {
-        if (visited[course] == 1) 
-            return true;
-        if (visited[course] == 2) 
-            return false;
+    private boolean dfs(int node, ArrayList<ArrayList<Integer>> graph, boolean[] visited, boolean[] pathVisited){
+        visited[node] = true;
+        pathVisited[node] = true;
 
-        visited[course] = 1; 
-
-        for (int neighbor : graph.get(course)) {
-            if (hasCycle(graph, visited, neighbor))
+        for(int neighbour : graph.get(node)){
+            if(!visited[neighbour]){
+                if(dfs(neighbour, graph, visited, pathVisited)){
+                    return true;
+                }
+            } else if (pathVisited[neighbour]){
                 return true;
+            }
         }
 
-        visited[course] = 2; 
+        pathVisited[node] = false;
+
         return false;
     }
 }
