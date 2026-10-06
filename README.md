@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HarshitKumarModi/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshitKumarModi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/HarshitKumarModi/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/HarshitKumarModi/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/HarshitKumarModi/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
 | [3310-remove-methods-from-project](https://github.com/HarshitKumarModi/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitKumarModi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1051,4 +1055,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitKumarModi/LeetCode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
