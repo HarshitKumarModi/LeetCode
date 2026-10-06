@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HarshitKumarModi/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HarshitKumarModi/LeetCode/tree/master/1563-stone-game-v) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitKumarModi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitKumarModi/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshitKumarModi/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/HarshitKumarModi/LeetCode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HarshitKumarModi/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarshitKumarModi/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/HarshitKumarModi/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/HarshitKumarModi/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/HarshitKumarModi/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarshitKumarModi/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/HarshitKumarModi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HarshitKumarModi/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/HarshitKumarModi/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarshitKumarModi/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/HarshitKumarModi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/HarshitKumarModi/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HarshitKumarModi/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/HarshitKumarModi/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/HarshitKumarModi/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -683,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HarshitKumarModi/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarshitKumarModi/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -849,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitKumarModi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1063,4 +1070,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/HarshitKumarModi/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
