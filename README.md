@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarshitKumarModi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshitKumarModi/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshitKumarModi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitKumarModi/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshitKumarModi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/HarshitKumarModi/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/HarshitKumarModi/LeetCode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HarshitKumarModi/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HarshitKumarModi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/HarshitKumarModi/LeetCode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/HarshitKumarModi/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/HarshitKumarModi/LeetCode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/HarshitKumarModi/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/HarshitKumarModi/LeetCode/tree/master/0743-network-delay-time) |
