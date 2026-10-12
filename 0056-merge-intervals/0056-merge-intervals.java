@@ -1,6 +1,6 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0] , b[0]));
 
         List<int[]> result = new ArrayList<>();
 
@@ -19,7 +19,6 @@ class Solution {
         }
 
         result.add(new int[]{start, end});
-
         return result.toArray(new int[result.size()][]);
     }
 }
