@@ -14,12 +14,12 @@ class Solution {
         while(left <= right){
             int mid = left + (right - left) / 2;
 
-            int currentWeight = 0;
             int minDays = 1;
+            int currentWeight = 0;
 
             for(int weight : weights){
-                if(currentWeight + weight <= mid){
-                    currentWeight += weight;
+                if((currentWeight + weight) <= mid){
+                    currentWeight = currentWeight + weight;
                 } else {
                     currentWeight = weight;
                     minDays++;
