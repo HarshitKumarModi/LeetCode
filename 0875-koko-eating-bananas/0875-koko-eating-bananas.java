@@ -3,17 +3,16 @@ class Solution {
         int n = piles.length;
         int left = 1;
         int right = 0;
-        for(int pile : piles){
-            right = Math.max(right, pile);
-        }  
+
+        for(int i = 0; i<n; i++){
+            right = Math.max(right, piles[i]);
+        }
 
         while(left <= right){
             int mid = left + (right - left) / 2;
-
             long hours = 0;
-
             for(int pile : piles){
-                hours += (pile + mid - 1) / mid;
+                hours = hours + (pile + mid - 1) / mid;
             }
 
             if(hours <= h){
@@ -24,5 +23,6 @@ class Solution {
         }
 
         return left;
+
     }
 }
