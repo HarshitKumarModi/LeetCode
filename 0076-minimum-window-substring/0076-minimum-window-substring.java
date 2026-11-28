@@ -5,7 +5,6 @@ public class Solution {
         }
 
         HashMap<Character, Integer> map = new HashMap<>();
-
         for(int i = 0; i<t.length(); i++){
             char ch = t.charAt(i);
 
@@ -20,7 +19,7 @@ public class Solution {
         int minLength = Integer.MAX_VALUE;
         int start = 0;
         int count = 0;
-        
+
         for(int right = 0; right<s.length(); right++){
             char ch = s.charAt(right);
 
@@ -28,7 +27,7 @@ public class Solution {
                 if(map.get(ch) > 0){
                     count++;
                 }
-                map.put(ch, map.get(ch) - 1);
+                map.put(ch,map.get(ch) - 1);
             }
 
             while(count == t.length()){
@@ -46,9 +45,10 @@ public class Solution {
                         count--;
                     }
                 }
-                left++;  
+                left++;
             }
         }
+
         if(minLength == Integer.MAX_VALUE){
             return "";
         }
