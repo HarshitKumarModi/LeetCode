@@ -8,6 +8,7 @@ class Solution {
         int leftMax = 0;
         int rightMax = 0;
 
+
         int water = 0;
 
         while(left < right){
